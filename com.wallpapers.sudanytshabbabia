@@ -102,6 +102,7 @@
       "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-النور-الجيلاني/القطار المرعود.mp3"
     },
     {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
       "name":"النيل عليك يا جميل",
       "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-النور-الجيلاني/النيل عليك يا جميل.mp3"
     },
@@ -118,6 +119,7 @@
       "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-احمد-الصادق/اخر عهدي بيهم.mp3"
     },
     {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
       "name":"اسمعينا وهدي بالك",
       "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-احمد-الصادق/اسمعينا وهدي بالك.mp3"
     },
@@ -127,7 +129,7 @@
       "name":"الجاب لي أخبارو",
       "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-احمد-الصادق/الجاب لي أخبارو.mp3"
     },
-    {  
+    {
       "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
 
 
@@ -193,9 +195,36 @@
 
       "name":"المسافة",
       "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-مصطفى-سيد-احمد/المسافة.mp3"
-  
-  
-   
+    },
+    {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
+
+      "name":"اخر المطاف",
+      "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-انصاف-مدني/اخر المطاف.mp3"
+    },
+    {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
+
+      "name":"ارجعلي",
+      "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-انصاف-مدني/ارجعلي.mp3"
+    },
+    {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
+
+      "name":"الام الفراق",
+      "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-انصاف-مدني/الام الفراق.mp3"
+    },
+    {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
+
+      "name":"الحنين دلوكة",
+      "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-انصاف-مدني/الحنين دلوكة.mp3"
+    },
+    {
+      "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
+
+      "name":"الخدير ماني حي",
+      "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-انصاف-مدني/الخدير ماني حي.mp3"
     }
   ]
 }
