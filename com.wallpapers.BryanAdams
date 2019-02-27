@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://twitter.com",
-      "poloPRO": "3940256099942544x",
+      "poloPRO": "3940256099942544",
       "nain1": "1033173712",
       "nain2": "1033173712",
       "nain3": "1033173712",
@@ -48,171 +48,255 @@
   ],
   "media": [
     {
-      "name":"Do I Have to Say the Words? - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams-DoIHaveToSayTheWords.mp3"
-    },
-    {
-      "name":"All for Love (Originally Performed By Bryan Adams, Rod Stewart and Sting) - Rock Angels",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"01 - Only The Strong",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdamsRodStewartSting_AllForLove.mp3"
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/01%20-%20Only%20The%20Strong.MP3"
     },
     {
-      "name":"Back to You - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"02 - The Only One",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_BackTYou.mp3"
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/02%20-%20The%20Only%20One.MP3"
     },
     {
-      "name":"Can't Stop This Thing We Started - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"03 - Kids Wanna Rock",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_CantStopThisThingWeStarted.mp3"
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/03%20-%20Kids%20Wanna%20Rock.MP3"
     },
     {
-      "name":"Cloud Number Nine - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"04 - It's Only LOve",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_CloudNumber.mp3"
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/04%20-%20It%27s%20Only%20Love.MP3"
     },
     {
-      "name":"Have You Ever Really Loved a Woman? - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"05 - Cuts Like A Knife",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_HaveYouEverReallyLovedAWoman.mp3"
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/05%20-%20Cuts%20Like%20A%20Knife.MP3"
     },
     {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"06 - Victim Of Nove",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/06%20-%20Victim%20Of%20Nove.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"07 - Straight From The Heart",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/07%20-%20Straight%20From%20The%20Heart.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"08 - Heaven",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/08%20-%20Heaven.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"09 - Heat Of The Night",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/09%20-%20Heat%20Of%20The%20Night.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"10 - Run To You",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/10%20-%20Run%20To%20You.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"11 - Somebody",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/11%20-%20Somebody.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"12 - Into The Fire",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/12%20-%20Into%20The%20Fire.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"13 - Summer Of ' 69",
+
+      "uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/13%20-%20Summer%20Of%20%27%2069.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Back To You",
+
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Back_To_You.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Cloud Number Nine",
+
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Cloud_Number_Nine.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Everything I Do I Do It For U",
+
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Everything_I_Do_I_Do_It_For_You.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Flying",
+
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Flying.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Have You Ever Really Loved A Woman",
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Have_You_Ever_Really_Loved_A_Woman.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
       "name":"Heaven - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_Heaven.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Heaven.MP3"
     },
     {
-      "name":"BryanAdams HereIAm",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Here I Am - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_HereIAm.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Here_I_Am.MP3"
     },
     {
-      "name":"Let's Make a Night to Remember - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"How Do You Talk to an Angel - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_LetsMakeANightToRemember.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_How_Do_You_Talk_to_an_Angel.MP3"
     },
     {
-      "name":"Bryan Adams - Room Service",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams I Finally Found Someone - Bryan Adams Duet",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_RoomService.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_Finally_Found_Someone.MP3"
     },
     {
-      "name":"Somebody - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"I Need Somebody - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_Somebody.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_Need_Somebody.MP3"
     },
     {
-      "name":"Summer Of '69 - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams I Still Miss You A Little Bit",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_Summerof69.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_Still_Miss_You_A_Little_Bit.MP3"
     },
     {
-      "name":"The Best of Me - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams I m Ready",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_TheBestofMe.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_m_Ready.MP3"
     },
     {
-      "name":"Thought I'd Died and Gone to Heaven - Bryan Adams",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"I'll Be Right Here Waiting - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/BryanAdams_ThoughtIdDiedAndGoneToHeaven.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_will_be_right_here_waiting_for_you.MP3"
     },
     {
-      "name":"ChristmasTime",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams In The Heat Of The Night",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/ChristmasTime.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_In_The_Heat_Of_The_Night.MP3"
     },
     {
-      "name":"Dara Sedaka with Bryan Adams Try to See It My Way",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Lets Make A Night To Remember",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/DaraSedakawithBryanAdams_TrytoSeeItMyWay.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Lets_Make_A_Night_To_Remember.MP3"
     },
     {
-      "name":"DoIHaveToSayTheWords ",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Merry Christmas",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/DoIHaveToSayTheWords_.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Merry_Christmas.MP3"
     },
     {
-      "name":"HeatOfTheNight",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Never Let Go",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/HeatOfTheNight.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Never_Let_Go.MP3"
     },
     {
-      "name":"ImReady",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams Please Forgive Me",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/ImReady.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Please_Forgive_Me.MP3"
     },
     {
-      "name":"InsideOut",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Run To You - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/InsideOut.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Run_To_You.MP3"
     },
     {
-      "name":"OneNightLoveAffair",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Straight from the Heart - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/OneNightLoveAffair.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Straight_from_the_Heart.MP3"
     },
     {
-      "name":"OpenRoad",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"summer of 69 - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/OpenRoad.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Summer_of_69.MP3"
     },
     {
-      "name":"StraightFromTheHeart",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams The Only Thing That Looks Good On Me Is You",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/StraightFromTheHeart.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_The_Only_Thing_That_Looks_Good_On_Me_Is_You.MP3"
     },
     {
-      "name":"TheOnlyThingThatLooksGoodOnMeIsYou",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"This Time - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/TheOnlyThingThatLooksGoodOnMeIsYou.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_This_Time.MP3"
     },
     {
-      "name":"ThisTime",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"This Time - Bryan Adams",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/ThisTime.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_This_Time_2.MP3"
     },
     {
-      "name":"WHENYoureGoneftMelanieC",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams When You re Gone",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/WHENYoureGoneftMelanieC.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_When_You_re_Gone.MP3"
     },
     {
-      "name":"itsonlylove",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Bryan Adams and Celine Dion Look Into My Eyes",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/itsonlylove.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_and_Celine_Dion_Look_Into_My_Eyes.MP3"
     },
     {
-      "name":"kidswannarock",
-      "imageurl":"http://www.evenko.ca/_uploads/event/13687/splash.jpg",
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"It s Only Love - Bryan Adams & Tina Turner",
 
-      "uel":"https://archive.org/download/BryanAdamsRodStewartStingAllForLove/kidswannarock.mp3"
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_and_Tina_Turner_It_is_Only_Love.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"It s Only Love - Bryan Adams & Tina Turner",
+
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_and_Tina_Turner_It_is_Only_Love_2.MP3"
+    },
+    {
+      "imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+      "name":"Michael Buble Ft Bryan Adams After All",
+
+      "uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Michael_Buble_Ft_Bryan_Adams_After_All.MP3"
     }
   ]
 }
