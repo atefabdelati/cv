@@ -1,7 +1,9 @@
+
+
 {
   "euro": [
     {
-       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
       "poloPRO": "7489147713921350",
       "nain1": "7269339293",
       "nain2": "6147829313",
@@ -47,6 +49,41 @@
     }
   ],
   "media": [
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "ليت كل العمر جمعه",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/1.mp3"
+    },
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "لو اشوف دمعه بعينك",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/2.mp3"
+    },
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "دق قلبي دق",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/3.mp3"
+    },
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "مجنن عباد الله",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/4.mp3"
+    },
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "مشتاق أشوفك",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/5.mp3"
+    },
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "وروحي هايمة عندك",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/6.mp3"
+    },
+    {
+      "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
+      "name": "الله يعين العاشق بالموال",
+      "uel":"https://ia601504.us.archive.org/9/items/po09iuyy/7.mp3"
+    },
     {
       "imageurl":"https://www.alhayahpressy.com/wp-content/uploads/2017/12/maxresdefault-2-660x330.jpg",
       "name": "اتـــــحداك",
@@ -289,3 +326,4 @@
     }
   ]
 }
+
